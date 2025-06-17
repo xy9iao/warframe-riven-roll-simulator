@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+    background-color: darkcyan;
+}
+
+h1 {
+    color: blue;
+}
+
+#result {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: blue;
+    border: 1px solid grey;
+}
+
+#suggestions {
+    background-color: white;
+    border: 1px solid #ccc;
+    max-height: 150px;
+    overflow-y: auto;
+}
+
+.suggestion-item {
+    padding: 5px;
+    cursor: pointer;
+}
+
+.suggestion-item:hover {
+    background-color: #eee;
+}
