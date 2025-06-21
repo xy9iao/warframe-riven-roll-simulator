@@ -16,16 +16,21 @@ Built with HTML, CSS, and JavaScript — no frameworks or build tools required!
 ---
 
 ## Project Structure
-
-warframe-rng-project/
-├── index.html # Main web page
-├── style.css # UI styling
-├── weapons.json # Weapon data (subset of Warframe weapons)
-└── js/
-├── data.js # Loads and provides access to weapons
-├── autocomplete.js # Adds suggestions to the input field
-└── rng.js # Handles RNG logic and roll button
-
+'''
+your-project/
+├── index.html
+├── style.css
+├── weapons.json
+├── README.md
+├── LICENSE
+├── .gitignore
+├── /js/
+│   ├── data.js
+│   ├── rng.js
+│   └── autocomplete.js
+├── /assets/ (optional)
+│   └── screenshot.png
+'''
 ---
 
 ## How to Run
