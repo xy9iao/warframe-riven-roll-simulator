@@ -15,24 +15,6 @@ Built with HTML, CSS, and JavaScript — no frameworks or build tools required!
 
 ---
 
-## Project Structure
-```
-your-project/
-├── index.html
-├── style.css
-├── weapons.json
-├── README.md
-├── LICENSE
-├── .gitignore
-├── /js/
-│   ├── data.js
-│   ├── rng.js
-│   └── autocomplete.js
-├── /assets/ (optional)
-│   └── screenshot.png
-```
----
-
 ## How to Run
 
 1. **Download or clone this repo**
