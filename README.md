@@ -16,7 +16,7 @@ Built with HTML, CSS, and JavaScript — no frameworks or build tools required!
 ---
 
 ## Project Structure
-'''
+```
 your-project/
 ├── index.html
 ├── style.css
@@ -30,7 +30,7 @@ your-project/
 │   └── autocomplete.js
 ├── /assets/ (optional)
 │   └── screenshot.png
-'''
+```
 ---
 
 ## How to Run
