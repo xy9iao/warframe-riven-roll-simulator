@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Soma Prime",
+    "type": "Rifle",
+    "rivenDisposition": 0.95
+  },
+  {
+    "name": "Rubico Prime",
+    "type": "Sniper Rifle",
+    "rivenDisposition": 0.5
+  }
+]
